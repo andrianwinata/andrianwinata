@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrianwinata&theme=dark)](https://github.com/andrianwinata)
 
 <a href="https://github.com/andrianwinata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrianwinata&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrianwinata&theme=dark&v=2" />
 </a>
 
 </br>
